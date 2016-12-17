@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TimeUtility/TimeUtility.iml" filepath="$PROJECT_DIR$/TimeUtility/TimeUtility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XTimer.iml" filepath="$PROJECT_DIR$/XTimer.iml" />
+    </modules>
+  </component>
+</project>

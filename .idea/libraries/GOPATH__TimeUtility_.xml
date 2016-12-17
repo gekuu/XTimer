@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;TimeUtility&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Test2" />
+      <root url="file://$PROJECT_DIR$/../GoTest" />
+      <root url="file://$PROJECT_DIR$/../Prg.QuizletCreator" />
+      <root url="file://$PROJECT_DIR$/../GoApp001" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../Prg.WifiRestApp" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Test2" />
+      <root url="file://$PROJECT_DIR$/../GoTest" />
+      <root url="file://$PROJECT_DIR$/../Prg.QuizletCreator" />
+      <root url="file://$PROJECT_DIR$/../GoApp001" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../Prg.WifiRestApp" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/TimeUtility" />
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
