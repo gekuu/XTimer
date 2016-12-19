@@ -8,7 +8,7 @@ import (
 
 // this is our main method!
 func main() {
-	timer := TimeUtility.NewTimerPlus(2); // interval is 2 seconds!
+	timer := TimeUtility.NewTimerPlus(2); // interval is 2 sec!
 	go func(tp *TimeUtility.TimerPlus) {
 		// it will stop in 10 seconds.( it's just a simulation)
 		time.Sleep(time.Duration(10) * time.Second)
